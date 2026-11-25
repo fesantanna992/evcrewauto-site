@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evcrewauto.com/sitemap.xml
